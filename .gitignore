@@ -1,0 +1,16 @@
+results/
+scripts/sh/
+scripts/slurm/
+configs/
+__pycache__/
+deprecated/
+data/*
+*.txt
+*.csv
+*.ipynb
+*.config
+*.zip
+tmp
+res
+!data/download_hybrid.sh
+!requirements.txt
