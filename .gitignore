@@ -12,5 +12,5 @@ data/*
 *.zip
 tmp
 res
-!data/download_hybrid.sh
+!data/download.sh
 !requirements.txt
